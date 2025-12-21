@@ -35,7 +35,7 @@ const MissionsPage: React.FC = () => {
     },
    {
   id: 5,
-  image: 'mission5.png',
+  image: 'z.png',
   title: 'Mission 5',
   subtitle: 'Reconnaissance & Autonomous Delivery Operation',
   info: 'The rover performs reconnaissance over challenging terrain to locate and document scattered objects using onboard sensors, imaging systems, and GPS logging. It is capable of picking up, storing, and autonomously delivering objects to designated locations using a robotic arm and storage mechanism, ensuring precise navigation and efficient task execution under limited time constraints.',
